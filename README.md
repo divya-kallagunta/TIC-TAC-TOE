@@ -9,5 +9,4 @@ chmod +x index1.sh
 
 exit
 
-
 #use board command to run the game
